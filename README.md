@@ -1,4 +1,5 @@
-# 🤖 Project DEWAS_CARE: Next-Gen Autonomous Humanoid Care-Robot
+# 🤖 Project DEWAS_CARE: Next-Gen Autonomous Humanoid Care-Robot![DEWAS_CARE V1 Blueprint](DEWAS_CARE_V1_Blueprint_jpg)
+![DEWAS_CARE V1-V2 Hybrid Blueprint](DEWAS_CARE%20V1-V2%20HYBRID%20BLUEPRINT.png)
 
 Welcome to the official architectural blueprint repository for **DEWAS_CARE**—a high-performance, low-latency companion robot designed for autonomous healthcare assistance and empathetic engagement, powered by advanced AI cores (Gemini Integration).
 
